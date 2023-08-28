@@ -1,3 +1,13 @@
+@media (min-width:300px)and(max-width:600px){
+    body{
+        /* display: block; */
+        background-color: #E3E6E6;
+
+    }
+}
+
+
+
 *{
     margin: 0px;
     font-family: Arial;
@@ -31,7 +41,7 @@ body{
     background-color: #131921;
     background-size: cover;
     height: 50px;
-    width: 100%px;
+    width: 100%;
 }
 
 .border{
